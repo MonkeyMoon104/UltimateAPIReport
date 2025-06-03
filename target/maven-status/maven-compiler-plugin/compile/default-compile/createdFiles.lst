@@ -1,0 +1,3 @@
+com\monkey\ultimatereport\api\MissingImplementationException.class
+com\monkey\ultimatereport\api\ReportAPI.class
+com\monkey\ultimatereport\api\ReportProvider.class
