@@ -9,7 +9,10 @@ public interface UltimateReportProvider {
     int getValidReports(String playerName);
 
     int getMaxValidReports();
-    List getAllPendingReports();
-    List getAllPlayerReports(String playerName);
+
+    List<ReportData> getAllPendingReports();
+
+    List<ReportData> getAllReportsFor(String player);
+
 
 }
