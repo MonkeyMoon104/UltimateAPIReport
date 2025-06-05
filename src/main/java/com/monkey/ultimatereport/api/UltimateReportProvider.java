@@ -4,7 +4,7 @@ import java.util.List;
 
 public interface UltimateReportProvider {
 
-    int createReport(String reporter, String target, boolean bypasscooldown, boolean silent, String reason);
+    int createPendingReport(String reporter, String target, String reason, boolean silent);
 
     int getValidReports(String playerName);
 
