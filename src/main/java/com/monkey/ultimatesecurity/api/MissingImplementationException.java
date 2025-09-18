@@ -1,7 +1,7 @@
-package com.monkey.ultimatereport.api;
+package com.monkey.ultimatesecurity.api;
 
 public class MissingImplementationException extends IllegalStateException {
     public MissingImplementationException() {
-        super("UltimateReport not loaded: API still not initializated.");
+        super("UltimateSecurity not loaded: API still not initializated.");
     }
 }

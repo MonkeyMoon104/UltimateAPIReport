@@ -6,12 +6,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.monkey</groupId>
-    <artifactId>ultimatereport-api</artifactId>
+    <artifactId>ultimatesecurity-api</artifactId>
     <version>1.0.5</version>
     <packaging>jar</packaging>
 
-    <name>UltimateReport API</name>
-    <description>Public API for UltimateReport</description>
+    <name>UltimateSecurity API</name>
+    <description>Public API for UltimateSecurity</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

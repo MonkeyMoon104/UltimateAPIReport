@@ -1,4 +1,4 @@
-package com.monkey.ultimatereport.api;
+package com.monkey.ultimatesecurity.api;
 
 public interface ReportData {
 

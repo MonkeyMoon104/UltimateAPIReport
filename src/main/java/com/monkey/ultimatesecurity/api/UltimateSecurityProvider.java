@@ -1,10 +1,10 @@
-package com.monkey.ultimatereport.api;
+package com.monkey.ultimatesecurity.api;
 
-import com.monkey.ultimatereport.api.data.ReportLeaderboardEntry;
+import com.monkey.ultimatesecurity.api.data.ReportLeaderboardEntry;
 
 import java.util.List;
 
-public interface UltimateReportProvider {
+public interface UltimateSecurityProvider {
 
     int createPendingReport(String reporter, String target, String reason, boolean silent);
 
